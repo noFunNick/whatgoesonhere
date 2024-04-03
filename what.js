@@ -397,7 +397,7 @@ async function sendTweet() {
         
         appKey: "appKey",
         appSecret: "appSecret",
-        accessToken: "accessToken-1QEa1V8adEi1XvPUeQ1yR0dsEyKz2qS",
+        accessToken: "accessToken",
         accessSecret: "accessSecret"
         //timeout_ms: 60 * 1000,
     });
